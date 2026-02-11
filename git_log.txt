@@ -1,0 +1,7 @@
+﻿66d0f05bbd30cb1e7f55cd8884649c9ee47f6c82 style: simplify UI to a clean utilitarian design
+7fe15901eaa502ed68b0503e45e38f9e45ba7f79 chore: ignore storybook-static
+4f1608e837d0b0b3d1342f65dc270fa16196564e feat: polish UI, fix stories actions and resolve lint errors
+321c451102dafe96a2f4a06dd6a36b6a1092f5f0 feat: enhance picker UI and configure Storybook deployment
+c35361b67d172e1221952d81d21d00e68e5463ce chore: add .gitignore and ensure node_modules are untracked
+b927f2db8f0359896a7eee01bfc9cf93496c15e4 fix: remove redundant npx from build script
+0d8b7621aefd7d9f18f3092931d0613d0f8cad05 Initial commit
