@@ -47,7 +47,7 @@ A timezone-aware, highly accessible date and time range picker built with **Reac
 
 ```tsx
 import { DateTimeRangePicker } from './src/DateTimeRangePicker';
-
+ 
 const MyComponent = () => {
   const [range, setRange] = useState({
     start: null,
