@@ -4,7 +4,7 @@ A timezone-aware, highly accessible date and time range picker built with **Reac
 
 ![Landing Page](./public/output.png)
 
-## ✨ Features
+## ✨ Features 
 
 - 🌍 **Timezone Aware**: Seamless switching between timezones with DST-safe conversions.
 - ⌨️ **Keyboard Navigation**: Full calendar grid and input control via keyboard.
