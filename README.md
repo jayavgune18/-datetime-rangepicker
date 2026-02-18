@@ -1,4 +1,4 @@
-# 🕒 DateTimeRangePicker
+# 🕒 DateTimeRangePicker 
 
 A timezone-aware, highly accessible date and time range picker built with **React**, **TypeScript**, and **Tailwind CSS**. Designed for complexity, it handles DST transitions, custom constraints, and responsive layouts with ease.
 
